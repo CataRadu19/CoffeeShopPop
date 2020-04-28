@@ -123,6 +123,9 @@ nav select {
 }
 
 @media (max-width: 640px) {
+  header {
+    height: 90px;
+  }
   .cont1{
     height:400px;
   }
